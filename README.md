@@ -1,7 +1,7 @@
-# QRCODE_PROCESS
-# ko đặt tên biến là qrcode
+## QRCODE_PROCESS
+
 # khởi tạo
-qrcode_new = QR_CODE_PROCESS() \n
+qrcode_new = QR_CODE_PROCESS() 
 
 # encode qrcode
 qrcode_new.encode_qrcode("Hello World","test_qrcode.png")
