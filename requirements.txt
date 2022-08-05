@@ -1,0 +1,4 @@
+#python 3.8.5
+opencv-python==4.5.2.52
+qrcode
+pyzbar
